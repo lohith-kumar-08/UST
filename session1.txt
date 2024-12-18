@@ -13,21 +13,21 @@ ANS: Not a Statement: This is a command, not a statement, so it cannot be true o
 ANS: Statement: This is a statement expressing a personal belief. Its False. 
  
 5. Father Nikolsky penned his dying confession to Patriarch Arsen III Charnoyevich of Peç in the pitch dark, somewhere in Poland, using a mixture of gunpowder and saliva, and a quick Cyrillic hand, while the innkeeper's wife scolded and cursed him through the bolted door.  
-ANS:Statement: This is a statement. Its truth value would depend on historical facts 
+ANS:Statement: This is a statement. Its truth
 
 
 6. 1,000,000,000 is the largest number.
-ANS: Statement: This is false. There is no largest number in mathematics.
+ANS: Statement: This is false.
  
 7. There is no largest number.
 
 ANS: Statement: This is true in standard arithmetic.
  
 8. There may or may not be a largest number.
-ANS: Statement: This is true as a logical possibility, depending on the context of the mathematical system in question.
+ANS: Statement: This is true.
  
 9. Intelligent life abouds in the universe.
-ANS: Statement: This can be true or false, and its truth value is currently unknown.
+ANS: Statement: This can be false.
  
 10. This definitely is a statement.
 ANS: Statement: This is true if it refers to itself being a statement.
