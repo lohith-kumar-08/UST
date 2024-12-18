@@ -1,1 +1,100 @@
-"Hello, world!" 
+Which of the following are statements? Comment on the truth values of all the statements you encounter; if a sentence fails to be a statement, explain why.
+ 
+1. All swans are white.
+ 
+2. The fat cat sat on the mat.
+ 
+3. Look in thy glass and tell whose face thou viewest.  
+ 
+4. My glass shall not persuade me I am old.  
+ 
+5. Father Nikolsky penned his dying confession to Patriarch Arsen III Charnoyevich of Peç in the pitch dark, somewhere in Poland, using a mixture of gunpowder and saliva, and a quick Cyrillic hand, while the innkeeper's wife scolded and cursed him through the bolted door.  
+ 
+6. 1,000,000,000 is the largest number.
+ 
+7. There is no largest number.
+ 
+8. There may or may not be a largest number.
+ 
+9. Intelligent life abouds in the universe.
+ 
+10. This definitely is a statement.
+ 
+11. The speaker is lying.
+ 
+12. This is exercise number 12.
+ 
+13. This sentence no verb.  
+ 
+14. "potato" is spelled p-o-t-a-t-o-e.
+ 
+Let
+ 
+p: "Our mayor is trustworthy,"
+q: "Our mayor is a good speller,"
+r = "Our mayor is a patriot."
+Express each of the following statements in logical form:
+15. Although our mayor is not trustworthy, he is a good speller.
+ 
+16. Either our mayor is trustworthy, or he is a good speller.
+ 
+17. Our mayor is a trustworthy patriot who spells well.
+ 
+18. While our mayor is both trustworthy and patriotic, he is not a good speller.
+ 
+19. It may or may not be the case that our mayor is trustworthy.
+ 
+20. Either our mayor is not trustworthy or not a patriot, yet he is an excellent speller.
+ 
+Let
+ 
+p: "Willis is a good teacher,"
+q: "Carla is a good teacher,"
+r: "Willis' students hate math,"
+s: "Carla's students hate math."
+Express the following in words:
+21. p(~r)	
+22. (~p)(~q)
+23. p(r(~q))	
+24. (r(~p))q
+25. q(~q)	
+26. ((~p)(~s))q
+27. r(~r)	
+28. (~s)(~r)
+29. ~(qs)	30. ~(pr)
+Assume that it is true that "Polly sings well," it is false that "Quentin writes well," and it is true that "Rita is good at math." Determine the truth of each of the following statements.
+31. Polly sings well and Quentin writes well.
+ 
+32. Polly sings well or Quentin writes well.
+ 
+33. Polly sings poorly and Quentin writes well.
+ 
+34. Polly sings poorly or Quentin writes poorly.
+ 
+35. Either Polly sings well and Quentin writes poorly, or Rita is good at math.
+ 
+36. Either Polly sings well and Quentin writes poorly, or Rita is not good at math.
+ 
+37. Either Polly signs well or Quentin writes well, or Rita is good at math.
+ 
+38. Either Polly sings well and Quentin writes well, or Polly sings well and Rita is good at math.
+ 
+39. Polly sings well, and either Quentin writes well or Rita is good at math.
+ 
+40. Polly sings poorly, or Quentin writes poorly and Rita is good at math.
+ 
+Communication and Reasoning Exercises
+41. The statement that either p or q is true, but not both is called the exclusive disjunction of p and q, which we shall write as p # q. Give a formula for p # q in terms of the logical operators ~,  and .
+ 
+42. The statement that either p and q are both true, or neither is true, is called the biconditional of p and q, and write it as pq. Give a formula for pq in terms of the logical operators ~,  and .
+ 
+43. Referring to Exercise 41, give an example of an everyday usage of exclusive disjunction.
+ 
+44. Referring to Exercise 42, give an example of an everyday usage of the biconditional.
+ 
+45. Give an example of a self-referential question that is its own answer.  
+ 
+46. Comment on the following pair of sentences:
+ 
+The next statement is false.
+The preceeding statement is true.
