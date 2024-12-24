@@ -1,6 +1,5 @@
 git --version : It will tell us the git current version installed on my pc
 
-
 git init : Initialize the git repository or reinitialized it if the repository already exists
 
 git status - it lists all  the modified files which are ready to be added to the local repository
