@@ -1,17 +1,19 @@
-fname = "lohith"
+fname = "Lohith"
+height = 5.10
 lname = "Kumar"
 
 fullname = fname + " " + lname
 
-Hemarker = "*-*"
+
+demarker = "*-*"
 
 isMarried = True
 
 print (fullname, "age is", age, "and height is", height)
 
-print(demarker*30) # Repeatition
+print (demarker*30) 
 
-print("First 3 characters from fullname:", fullname [:3]) #slicing
+print("First 3 characters from fullname:", fullname[:3]) #slicing
 
 print("whole string after 3rd position from fullname:", fullname [3:]) #slicing
 
@@ -21,29 +23,29 @@ print("whole string except last 2 characters from the fullname:", fullname[:-2])
 
 print("last 2 characters from the fullname:", fullname [-2:]) #slicing
 
-print("reversing of the string:", fullname [::-1]) #reversing of string
+print("reversing of the string:", fullname[::-1]) #reversing of string
 
 print("Character at the position 4:", fullname [3]) #indexing
 
 print("Character at the 2nd last position of the string:", fullname [-2]) #indexing
 
-print("number of a's in the fullname:", fullname, "is", fullname.count("a")) #counting of character
+print("number of a's in the fullname:", fullname, "is", fullname.count("a")) #counting of characte
 
-Fullname fullname.replace("Parag", "Prachi") #replacement
+Fullname = fullname.replace("Parag", "Prachi") #replacement
 
 print("replace parag with prachi:", fullname)
 
-print("find first i position in fullname:", fullname.find("i"))
+print("find first i position in fullname:",fullname.find("i"))
 
-print("find 2nd i position in fullname:", fullname.find("i",6)) #find
+print("find 2nd i position in fullname:", fullname.find("i", 6)) #find
 
-brint ("split the fullname into list based on the seperator", fullname.split(" "))#splitting
+print ("split the fullname into list based on the seperator", fullname.split(" "))#splitting
 
 print("Maritial Status", isMarried)
 
 
-ASSESMENT:
 
+# ASSESMENT
 
 
 email = "ilearniexcel@gmail.com"
