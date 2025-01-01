@@ -1,7 +1,7 @@
 fname = "Lohith"
 height = 5.10
 lname = "Kumar"
-
+age=24
 fullname = fname + " " + lname
 
 
